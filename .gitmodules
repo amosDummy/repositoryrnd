@@ -1,0 +1,6 @@
+[submodule "AMOS_HMI-Output"]
+	path = AMOS_HMI-Output
+	url = https://github.com/stubb/AMOS_HMI-Output
+[submodule "aaalana"]
+	path = aaalana
+	url = https://github.com/amosDummy/aaalana
